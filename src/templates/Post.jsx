@@ -2,10 +2,17 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '~/components/layout';
 import Post from '~/components/Post';
+import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
 
 const PostTemplate = props => (
-  <Layout {...props}>
-    <Post {...props} />
+
+  <Layout { ...props }>
+    <Post { ...props } />
+
+
+ 
+    <Disqus />
+
   </Layout>
 );
 

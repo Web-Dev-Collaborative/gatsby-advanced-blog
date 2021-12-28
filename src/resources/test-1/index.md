@@ -20,4 +20,4 @@ images: [
 - Redux saga
 - ...
 
-[Go to Web Site →](https://github.com/wonism/gatsby-advanced-blog)
+[Go to Web Site →](https://github.com/bgoonz/gatsby-advanced-blog)

@@ -3,14 +3,14 @@
 
 ## Install
 ```
-$ git clone git@github.com:wonism/gatsby-advanced-blog.git <<PROJECT_NAME>>
+$ git clone git@github.com:bgoonz/gatsby-advanced-blog.git <<PROJECT_NAME>>
 # Recommend you to delete `.git`
 $ cd <<PROJECT_NAME>> && rm -r .git
 ```
 
 ## Start with gatsby-cli
 ```
-$ gatsby new <<PROJECT_NAME>> https://github.com/wonism/gatsby-advanced-blog
+$ gatsby new <<PROJECT_NAME>> https://github.com/bgoonz/gatsby-advanced-blog
 ```
 
 ## Development

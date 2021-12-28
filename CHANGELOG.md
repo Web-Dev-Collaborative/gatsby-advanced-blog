@@ -27,12 +27,12 @@
 - [x] update `gatsby` version (`v2.0.8`)
 
 ## 0.2.2 - 2018-08-24
-- [x] fix issue that is related with media query for print ((ISSUE 11)[https://github.com/wonism/gatsby-advanced-blog/issues/11])
+- [x] fix issue that is related with media query for print ((ISSUE 11)[https://github.com/bgoonz/gatsby-advanced-blog/issues/11])
 
 ## 0.2.1 - 2018-08-10
-- [x] update `gatsby` to use `Link` in `gatsby` instead of `gatsby-link` ((ISSUE 8)[https://github.com/wonism/gatsby-advanced-blog/issues/8])
-- [x] remove all `css`s and add styles into `Styled Components`. ((ISSUE 9)[https://github.com/wonism/gatsby-advanced-blog/issues/9])
-- [x] fix SSR ((ISSUE 9)[https://github.com/wonism/gatsby-advanced-blog/issues/9])
+- [x] update `gatsby` to use `Link` in `gatsby` instead of `gatsby-link` ((ISSUE 8)[https://github.com/bgoonz/gatsby-advanced-blog/issues/8])
+- [x] remove all `css`s and add styles into `Styled Components`. ((ISSUE 9)[https://github.com/bgoonz/gatsby-advanced-blog/issues/9])
+- [x] fix SSR ((ISSUE 9)[https://github.com/bgoonz/gatsby-advanced-blog/issues/9])
 - [x] update `.eslintrc` to change some rules
 
 ## 0.2.0-1 - 2018-07-22

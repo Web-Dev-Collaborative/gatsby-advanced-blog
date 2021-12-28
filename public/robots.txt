@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://gatsby-advanced-blog.vercel.app/sitemap.xml
-Host: https://gatsby-advanced-blog.vercel.app
+Sitemap: https://gatsbyadvancedblogmaster82908.gatsbyjs.io//sitemap.xml
+Host: https://gatsbyadvancedblogmaster82908.gatsbyjs.io
