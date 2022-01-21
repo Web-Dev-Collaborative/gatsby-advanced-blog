@@ -35,8 +35,8 @@ nohup.out
 venv/
 ENV/
 
-# cached files
-.cache/
-
-# generated files
-public/
+# # cached files
+# .cache/
+# 
+# # generated files
+# public/
